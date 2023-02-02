@@ -1,0 +1,11 @@
+Titulo:El Hombre Araña, Genero:Romantico, Idioma:Ingles
+Titulo:Iron Man, Genero:Drama, Idioma:Ingles
+Titulo:Iron Man, Genero:Infantil, Idioma:Ingles
+Titulo:Iron Man, Genero:Drama, Idioma:Ingles
+Titulo:Iron Man, Genero:Comedia, Idioma:Ingles
+Titulo:Iron Man, Genero:Romantico, Idioma:Ingles
+Titulo:Los Ilusionistas, Genero:Romantico, Idioma:Ingles
+Titulo:Titanic, Genero:Romantico, Idioma:Ingles
+Titulo:Titanic, Genero:Otros, Idioma:Ingles
+Titulo:Titanic, Genero:Infantil, Idioma:Ingles
+Titulo:Volver al Futuro, Genero:Romantico, Idioma:Ingles

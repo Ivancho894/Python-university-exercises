@@ -1,0 +1,9 @@
+Titulo:El Hombre Araña,  Genero:Otros,  Idioma:Frances
+Titulo:El Hombre Araña,  Genero:Infantil,  Idioma:Frances
+Titulo:El Hombre Araña,  Genero:Infantil,  Idioma:Frances
+Titulo:El Hombre Araña,  Genero:Drama,  Idioma:Frances
+Titulo:Iron Man,  Genero:Romantico,  Idioma:Frances
+Titulo:Iron Man,  Genero:Otros,  Idioma:Frances
+Titulo:Star Wars,  Genero:Comedia,  Idioma:Frances
+Titulo:Titanic,  Genero:Romantico,  Idioma:Frances
+Titulo:Volver al Futuro,  Genero:Drama,  Idioma:Frances

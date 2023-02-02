@@ -1,0 +1,12 @@
+Titulo:Capitan America,  Genero:Infantil,  Idioma:Español
+Titulo:Capitan America,  Genero:Comedia,  Idioma:Español
+Titulo:Capitan America,  Genero:Ciencia Ficcion,  Idioma:Español
+Titulo:El Hombre Araña,  Genero:Otros,  Idioma:Español
+Titulo:El Hombre Araña,  Genero:Otros,  Idioma:Español
+Titulo:Iron Man,  Genero:Infantil,  Idioma:Español
+Titulo:Iron Man,  Genero:Otros,  Idioma:Español
+Titulo:Star Wars,  Genero:Otros,  Idioma:Español
+Titulo:Star Wars,  Genero:Drama,  Idioma:Español
+Titulo:Volver al Futuro,  Genero:Otros,  Idioma:Español
+Titulo:Volver al Futuro,  Genero:Infantil,  Idioma:Español
+Titulo:Volver al Futuro,  Genero:Drama,  Idioma:Español

@@ -1,0 +1,6 @@
+Titulo:Iron Man,  Genero:Ciencia Ficcion,  Idioma:Otros
+Titulo:Los Ilusionistas,  Genero:Otros,  Idioma:Otros
+Titulo:Star Wars,  Genero:Romantico,  Idioma:Otros
+Titulo:Volver al Futuro,  Genero:Comedia,  Idioma:Otros
+Titulo:Volver al Futuro,  Genero:Romantico,  Idioma:Otros
+Titulo:Volver al Futuro,  Genero:Infantil,  Idioma:Otros

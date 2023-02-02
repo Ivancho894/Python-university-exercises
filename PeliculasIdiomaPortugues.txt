@@ -1,0 +1,18 @@
+Titulo:Capitan America,  Genero:Infantil,  Idioma:Portugues
+Titulo:Capitan America,  Genero:Romantico,  Idioma:Portugues
+Titulo:El Hombre Araña,  Genero:Infantil,  Idioma:Portugues
+Titulo:El Hombre Araña,  Genero:Comedia,  Idioma:Portugues
+Titulo:El Hombre Araña,  Genero:Infantil,  Idioma:Portugues
+Titulo:El Hombre Araña,  Genero:Infantil,  Idioma:Portugues
+Titulo:Iron Man,  Genero:Infantil,  Idioma:Portugues
+Titulo:Iron Man,  Genero:Comedia,  Idioma:Portugues
+Titulo:Iron Man,  Genero:Otros,  Idioma:Portugues
+Titulo:Iron Man,  Genero:Otros,  Idioma:Portugues
+Titulo:Iron Man,  Genero:Romantico,  Idioma:Portugues
+Titulo:Iron Man,  Genero:Drama,  Idioma:Portugues
+Titulo:Star Wars,  Genero:Romantico,  Idioma:Portugues
+Titulo:Star Wars,  Genero:Infantil,  Idioma:Portugues
+Titulo:Star Wars,  Genero:Drama,  Idioma:Portugues
+Titulo:Volver al Futuro,  Genero:Otros,  Idioma:Portugues
+Titulo:Volver al Futuro,  Genero:Drama,  Idioma:Portugues
+Titulo:Volver al Futuro,  Genero:Ciencia Ficcion,  Idioma:Portugues
